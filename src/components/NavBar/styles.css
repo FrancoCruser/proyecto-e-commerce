@@ -1,12 +1,25 @@
 header {
+  background-color: rgb(95, 95, 95);
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
 nav {
+  padding-left: 25%;
   display: flex;
 }
 
-nav a {
-  margin-left: 10px;
+#navButton {
+  margin-left: 15px;
+}
+
+.buttonHome {
+  color:white;
+}
+h1{
+  color: white;
+}
+.linkk{
+  color: white;
+  text-decoration: none;
 }
